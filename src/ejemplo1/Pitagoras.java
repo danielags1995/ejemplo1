@@ -1,4 +1,5 @@
 
+// este no es un comentario
 package ejemplo1;
 
 public class Pitagoras {
